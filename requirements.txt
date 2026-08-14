@@ -3,4 +3,3 @@ nh3>=0.2.14
 
 
 
-Добавлен requirements.txt
