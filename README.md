@@ -1,4 +1,6 @@
 # xss-shield
+![CI](https://github.com/m2xdev/xss-shield/actions/workflows/ci.yml/badge.svg)
+
 Защита от XSS на Python с использованием nh3
 
 ## ⚠️ Дисклеймер / Disclaimer
